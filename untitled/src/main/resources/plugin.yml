@@ -1,0 +1,10 @@
+api-version: 1.13
+name: Runes
+author: Microbox
+version: 1.0
+main: media.microbox.runes.RunesPlugin
+
+commands:
+  rune:
+    description: A command to give runes
+    usage: /<command>
